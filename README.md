@@ -27,6 +27,9 @@ The Artificial Neural Network is built using **PyTorch** and consists of:
 * **Hidden Layer 2**: Fully connected (Dense) layer with 6 neurons and a ReLU activation function.
 * **Output Layer**: 1 neuron to predict the continuous target variable (`PE`).
 
+### Network Diagram
+![Model Architecture](model_architecture.png)
+
 ```
 Input (4 features) ──> Dense (6) ──> ReLU ──> Dense (6) ──> ReLU ──> Output (1)
 ```
