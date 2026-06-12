@@ -54,6 +54,8 @@ The PyTorch training workflow is structured as follows:
 * `ANN_Regression.ipynb`: Jupyter notebook containing the full workflow (loading, scaling, training, evaluating, and visualizing).
 * `powerplant_data.csv`: The Combined Cycle Power Plant dataset.
 * `best_model.pt`: Saved weights of the trained PyTorch ANN model.
+* `model_architecture.png`: Model architecture diagram (referenced in this README).
+* `network_diagram.png`: Detailed neural network visualization diagram (saved separately).
 * `.gitignore`: Configured to ignore python/jupyter checkpoints and cache files.
 * `README.md`: Project documentation (this file).
 
